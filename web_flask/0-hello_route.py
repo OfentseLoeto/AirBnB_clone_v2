@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-starts a Flask web application
+setting up the development environment, which is used for testing
+and debugging code before deploying it to production.
 """
 
 from flask import Flask
